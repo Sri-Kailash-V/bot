@@ -1,0 +1,5 @@
+npm install -g ngrok
+ngrok http 6000
+
+npm init
+//npm i react react-dom react-router-dom @babel/core @babel/preset-env @babel/preset-react webpack webpack-cli babel-loader @slack/events-api @slack/web-api

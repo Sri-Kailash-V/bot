@@ -1,0 +1,16 @@
+{
+  "name": "pramata_bot",
+  "version": "1.0.0",
+  "description": "Pramata Slack Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pramata",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/bolt": "^3.6.0",
+    "isomorphic-fetch": "^3.0.0",
+    "moment": "^2.29.1"
+  }
+}
